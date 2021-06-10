@@ -1,2 +1,2 @@
 # basicweb
-기본 web
+node.js base web
